@@ -10,16 +10,15 @@ I am a passionate master's CS student at the University of Exeter, driven by a c
 - 🌐
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,anaconda,aws,azure,bash,cs,docker,dynamodb,fastapi,gcp,go,jenkins,kubernetes,matlab,mongodb,python,terraform)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+- 🚀 Learning Full Stack Web Development,DevOps Engineering, Cloud Engineering and ML.
   - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+  - I am a full-stack engineer with an interests in front-end development. I have experience with HTML, CSS, JavaScript, React, Node.js, Express, SQL, and NoSQL. I am also familiar with Python, Java, and C++.
+  - DevOps/Cloud - I have developed cloud infrastructure for a series of different projects and have experience with AWS, GCP, and Azure. I have also worked with Docker, Kubernetes, and Terraform.
+  - Evolutionary Algorithms & Machine Learning - I have a huge interest in evolutionary algorithms, machine learning and quantum       computing. I have been working on a series of different projects and ideas.
 
 
 
