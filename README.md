@@ -1,6 +1,8 @@
 # Hi, I'm Simon Yates! 👋
 
-I am a passionate master's CS student at the University of Exeter, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+As a Quantum Consultant, I help quantum companies scale and grow by finding and connecting them with like-minded individuals who share their vision and passion. I enjoy working with innovative and cutting-edge technologies that have the potential to transform the world.
+
+I have a strong background in computer science, with a bachelor's degree from the University of Plymouth and a master's degree from the University of Exeter, where I focused on advanced topics such as deep learning, security, and quantum computing. I have developed multiple skills in cloud computing, web development, and cybersecurity, which I apply to my current role and projects. I am always eager to learn new things and challenge myself in the field of technology.
 
 ![SMN-O's Stats](https://github-readme-stats.vercel.app/api?username=SMN-O&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
