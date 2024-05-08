@@ -7,7 +7,8 @@ I am a passionate master's CS student at the University of Exeter, driven by a c
 ## 🚀 About Me
 
 - 🔭 I have graduated my Master's in Computer Science at the University of Exeter.
-- 🌐
+- 🌐 I work as a Quantum Consultant to scope the ideas and future for quantum.
+- ⚡ I am working on a business to build up my clothing line where I make 1 of 1 artisan pieces as well as the graphical design and software aspects - such as the website.   
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,anaconda,aws,azure,bash,cs,docker,dynamodb,fastapi,gcp,go,jenkins,kubernetes,matlab,mongodb,python,terraform)](https://skillicons.dev)
